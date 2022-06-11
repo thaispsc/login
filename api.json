@@ -1,0 +1,27 @@
+{
+  "users": [
+    {
+      "email": "olivier@mail.com",
+      "password": "$2a$10$D9VL9Ha9TXVCR7JI.0sOI.66wgepub.tqHTj6.r0Xec4eLFU/GQv2",
+      "firstname": "Olivier",
+      "lastname": "Monge",
+      "age": 32,
+      "id": 1
+    },
+    {
+      "email": "thais@email.comm",
+      "password": "$2a$10$HZ8Qhns7JQ50RO2TEtPnYOhaWCDcwPCE2bvdDSDlDPHBwInbM7Fka",
+      "firstname": "Thais",
+      "lastname": "Cavalcante",
+      "id": 2
+    },
+    {
+      "email": "chico@email.comm",
+      "password": "$2a$10$iomTLDdFvf05qh9FapLGfOjH9qHk5yqcDIzSNlWffOaoUU4QTy1gy",
+      "firstname": "Chico",
+      "lastname": "Barbosa",
+      "age": 23,
+      "id": 3
+    }
+  ]
+}
